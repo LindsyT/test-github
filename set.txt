@@ -1,2 +1,2 @@
 set init
-测试issue01
+测试issue02
